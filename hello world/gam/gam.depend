@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1493295292 source:c:\users\sandeep\desktop\projects\hello world\gam\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

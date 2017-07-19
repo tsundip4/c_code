@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1497552520 source:c:\users\sandeep\desktop\projects\hello world\linklist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+
